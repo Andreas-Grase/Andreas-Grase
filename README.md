@@ -5,7 +5,7 @@ Atualmente em: Curitiba - Paraná, Brazil
 
 website (`em breve`): *[andreas-grase.dev]*
 
-Linkedin: *[https://www.linkedin.com/in/andreas-grase]*
+Linkedin: *https://www.linkedin.com/in/andreas-grase*
 
 e-mail: *andreas.grase@gmail.com*
 
