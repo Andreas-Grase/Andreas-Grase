@@ -4,7 +4,9 @@
 Atualmente em: Curitiba - Paraná, Brazil
 
 website (`em breve`): *[andreas-grase.dev]*
+
 Linkedin: *[https://www.linkedin.com/in/andreas-grase]*
+
 e-mail: *andreas.grase@gmail.com*
 
 > Olá! 👋 meu nome é Andreas Grase. Sou amante da tecnologia e estou no mundo da programação desde 2012. Atualmente estou cursando Bacharelado de Sistemas de Informação na UTFPR. Também cursei parcialmente Engenharia da Computação (UTFPR), Bioquímica(UFV) e Ciência da Computação(UFV). Logo, sou um generalista no campo das ciências, com foco em desenvolvimento de software aplicado a negócios. Estudei ainda na Digital House o curso de Full Stack MERN e Engenharia de Software na 42.
