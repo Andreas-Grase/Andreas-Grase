@@ -1,62 +1,68 @@
-# Andreas Grase
-## _Desenvolvedor Full Cycle_
+# Olá, eu sou *Andreas Grase* 👋
 
-Atualmente em: Curitiba - Paraná, Brazil
+## _Desenvolvedor · Graduado em Defesa Cibernética_
 
-website (`em breve`): *[andreas-grase.dev]*
+📍 Atuação em Curitiba, PR e São Paulo, SP
+🌐 *[andreasgrase.info]*
+💼 LinkedIn
+✉️ andreas.grase@gmail.com
+📢 Português · Deutsch · English
 
-Linkedin: *https://www.linkedin.com/in/andreas-grase*
 
-e-mail: *andreas.grase@gmail.com*
+> Sou amante da tecnologia e um generalista no campo das ciências, com foco em desenvolvimento de software e sempre procurando otimizar a realização de tarefas. Ao longo da minha vida sempre tive o hábito de buscar autoconhecimento e autodesenvolvimento. Seja por conta da minha personalidade INFJ ou por alguma outra razão, fico contente em contribuir para o bem-estar dos outros. Tenho perfil cooperativo, mantenho a postura diante de conflitos e resolução de problemas. 
+> Desde sempre gosto de entender como as coisas funcionam: da lógica de um programa à infraestrutura que o sustenta, da segurança de uma aplicação aos pequenos detalhes da sua interface. Iniciei minha carreira na TI em 2012. Graduado em Defesa Cibernética, sou também desenvolvedor Mainframe e tenho interesse especial por tecnologias bancárias, plataforma Apple, Linux, filosofia open source, inteligência artificial, desenvolvimento de teclados.
+> Minha trajetória passa por computação, ciências e negócios. Encontrei no desenvolvimento de software um espaço para conectar essas perspectivas: investigar problemas, organizar ideias e construir soluções úteis.
 
-> Olá! 👋 meu nome é Andreas Grase. Sou amante da tecnologia e estou no mundo da programação desde 2012. Atualmente estou cursando Bacharelado de Sistemas de Informação na UTFPR. Também cursei parcialmente Engenharia da Computação (UTFPR), Bioquímica(UFV) e Ciência da Computação(UFV). Logo, sou um generalista no campo das ciências, com foco em desenvolvimento de software aplicado a negócios. Estudei ainda na Digital House o curso de Full Stack MERN e Engenharia de Software na 42.
 
-Trabalho em Português, Inglês e Alemão e possuo experiência prática com:
+## Formação e aprendizado
 
-- Desenvolvimento, deploy e manutenção de sites
-- Marketing aplicado em Web, com foco em métricas
-- Aplicação de Software para solução de problemas
+> Sou graduado em Defesa Cibernética. Minha trajetória acadêmica também inclui estudos em Sistemas de Informação e Engenharia da Computação, na UTFPR, e passagens por Bioquímica e Ciência da Computação, na UFV.
+Estudei desenvolvimento Full Stack MERN na Digital House e tive uma experiência de formação em Engenharia de Software na 42, onde o aprendizado entre pares reforçou minha visão sobre autonomia, colaboração e resolução de problemas.
+Aprendi a conectar conceitos de diferentes áreas através da busca constante dos pilares do conhecimento que dão fundamentos às mais diversas aplicações.
+> Exploro IA para estudar, pesquisar, desenvolver e testar ideias. Meu interesse inclui descobrir onde ela pode contribuir para um processo, como avaliar seus resultados e como transformar experimentos em ferramentas úteis.
 
-#### Meus objetivos
 
-Estou em busca de me tornar um profissional sênior com competência em todas as áreas do desenvolvimento web, para ter uma visão estratégica e auxiliar em todas as etapas. Para isso, procuro desenvolver habilidades e domínio de ferramentas para arquitetar, desenvolver, testar, fazer deploys e monitorar uma aplicação. Valorizo a possibilidade de home office que a internet oferece, apesar de acreditar na importância do contato pessoal para o trabalho. Também gosto da ideia de equilibrar trabalho com lazer para um estilo de vida saudável e duradouro.
+## Atuação profissional
+
+> No início da minha trajetória, trabalhei com suporte técnico da Dell pela Sykes do Brasil. Essa experiência me ensinou a ouvir, explicar assuntos técnicos com clareza e conduzir situações de conflito com foco na solução. Foi onde construi minha base na investigação de falhas e resolução de problemas.
+> Também tenho experiência profissional (e por hobbie) no desenvolvimento, publicação e manutenção de sites, o que inclui adaptação de soluções digitais às necessidades de negócios.
+> Ainda no universo da TI, atuei com Marketing digital, o que ensinou orientar-me por métricas junto à integração de ferramentas e serviços. 
+> Minha atuação profissional atual reúne desenvolvimento de software, Mainframe, segurança cibernética e interesse pelos sistemas que sustentam serviços financeiros. São sistemas que precisam funcionar com consistência, segurança e continuidade. Envolvendo ainda proteção de sistemas, autenticação, privacidade e investigar como decisões de arquitetura podem reduzir exposição de dados e tornar uma solução mais confiável.
+> Minha atuação profissional atual envolve desenvolvimento de software, ambiente Mainframe e segurança cibernética. Nesse contexto, dedico atenção à proteção de sistemas, à autenticação e à privacidade, explorando como decisões de arquitetura podem reduzir a exposição de dados e aumentar a confiabilidade das soluções para sustentar sistemas que exigem consistência, segurança e continuidade operacional.
+> Trabalho também no desenvolvimento de aplicações Apple para iOS, iPadOS, watchOS. Apesar de minhas ressalvas relacionadas a restrições proprietárias que implicam num ecossistema fechado com falta de transparência técnica, limitação da autonomia do usuário, bloqueio do fabricante, restrição à interoperabilidade e no direito de reparar dispositivos próprios e softwares embarcados, gosto da integração entre dispositivos e interfaces bem pensadas. Presto atenção ao comportamento dos aplicativos, à organização das informações e aos detalhes que tornam uma tarefa mais simples.
+> Meu interesse por teclados vai além da aparência. Gosto de explorar personalização, layouts, firmware e conectividade. Experimentos com teclados personalizados, incluindo investigação de infravermelho, Bluetooth e compilação de firmware, são exemplos de como um hobby pode se tornar um pequeno laboratório de engenharia. Pretendo, em algum momento, abrir meu próprio negócio de teclados customizados. 
 
 ## Conhecimento técnico (Hardskills)
 
 - Frontend: HTML, CSS, Javascript, React
 - Backend: Node.js e express.js, PHP, Java 
-- Banco de Dados: MySQL, MongoDB, Workbench
-- Ferramentas de design: Figma, AdobeXD, Photoshop (básico)
-- API's: Postman, Insomnia, JSON
-- CMS: Wordpress, Adaptação de temas e desenvolvimento de plug-ins
-- Deploy: FileZilla, PHPMyAdmin, Amazon Web Services e servidores convencionais (ex.: Hostgator)
-- Sistemas Operacionais: Windows, Linux
+- Banco de Dados: MySQL, MariaDB, MongoDB, Workbench
+- API's: JSON, Postman, Insomnia
+- CMS: Wordpress, com criação/adaptação de temas e desenvolvimento de plug-ins
+- Infraestrutura e publicação: Foco em infraestrutura AWS (Amazon Web Services)
+- Ferramentas de design: Foco em Figma
+- Sistemas operacionais: Windows, Linux, Plataforma Apple
 - Workflow: Scrum, Git
-- Ferramentas Google: Google Analytics, Google Search Console, Google Tag Manager, Google Ads, Google My Business
+- Marketing e mensuração: Google Analytics, Google Search Console, Google Tag Manager, Google Ads, Google My Business
+- Linguagens de interesse especial: C, C++, Swift, Cobol, JCL, Java, Python.
 
-## Habilidades interpessoais (Softskills)
 
-- Personalidade INFJ: Sempre separo um momento do meu dia para autoconhecimento e autodesenvolvimento. Fico contente em contribuir para o bem-estar dos outros e estou sempre disposto a consultar e cooperar.
-- Comunicação eficaz: No início do meu desenvolvimento profissional trabalhei como assistente técnico da Dell pela Sykes do Brasil. Isso possibilitou não apenas praticar meu conhecimento técnico, mas também a desenvolver minha postura diante de conflitos e resolução de problemas. 
-- Human Coder: Na 42 aprendi a importância de quebrar o esteriótipo do programador para otimizar a realização de tarefas em equipe e trazer um ambiente de trabalho saudável. Nesse processo, passei a aprimorar minha comunicação, empatia, colaboração, cooperação.
-- Negócios: Mais tarde, passei a trabalhar b2b na Weblead Agência Digital com aplicação da tecnologia em negócios, adotando postura, linguagem, visão e modelo de negócios. 
-
-## Meus trabalhos
+## Projetos favoritos
 
 | Nome | Tecnologias utilizadas | Link |
-| ------ | ------ | ------ |
-| `Em breve` | `Em breve` | `Em breve` |
-| `Em breve` | `Em breve` | `Em breve` |
-
-## Hobbies
-
-Sou uma pessoa que gosta de explorar. Pratico exercícios físicos e leitura diariamente, gosto de música e tocar violão. Quando se trata de tecnologia, sou um early adopter: Estou sempre atento a novidades e tendências.
-Particularmente, minha linguagem favorita é C e C++, por ser uma linguagem que permite forte domínio e claridade do software. Acho divertido mexer com expressões regulares e acredito que Linux é o melhor amigo do programador.
-
-Se quiser saber mais sobre mim, acesso meu [site pessoal](andreas-grase.dev).
+| Terminei | App iOS/iPadOS | ------ |
+| Olho Universitário | App iOS/iPadOS, site | ------ |
 
 
-[//]: # (Links de referência)
+## Além do código
 
-   [andreas-grase.dev]: <andreas-grase.dev>
-   [node.js]: <http://nodejs.org>
+Gosto de explorar. Exercícios físicos, leitura, música e violão fazem parte dos meus interesses, assim como o aprendizado de idiomas e a reflexão sobre comportamento, motivação e desenvolvimento pessoal.
+Quando se trata de tecnologia, sou um early adopter: Estou sempre atento a novidades e tendências. Gosto de experimentar tecnologias novas.
+
+Também tenho preferências bem definidas — C e C++ despertam meu interesse pelo controle que oferecem; expressões regulares são um desafio divertido; e Linux continua sendo o melhor companheiro do programador.
+
+
+Gosto de compreender o que existe por trás das coisas — e de usar esse entendimento para construir algo que faça sentido na vida de alguém.
+
+Se quiser saber mais sobre mim, acesso meu [site pessoal](andreasgrase.info). Lá você poderá ver meus projetos e hobbies em detalhes.
+
